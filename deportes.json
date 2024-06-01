@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Tenis",
+    "numero_de_jugadores": "2-4",
+    "canchas_disponibles": 8,
+    "valor_de_la_hora": 32000
+  },
+  {
+    "nombre": "Fútbol",
+    "numero_de_jugadores": "22",
+    "canchas_disponibles": 3,
+    "valor_de_la_hora": 25000
+  },
+  {
+    "nombre": "Fútbol-7",
+    "numero_de_jugadores": "12-14",
+    "canchas_disponibles": 10,
+    "valor_de_la_hora": 15000
+  },
+  {
+    "nombre": "Ping-Pong",
+    "numero_de_jugadores": "2",
+    "canchas_disponibles": 5,
+    "valor_de_la_hora": 5000
+  },
+  {
+    "nombre": "Basquetbol",
+    "numero_de_jugadores": "10",
+    "canchas_disponibles": 2,
+    "valor_de_la_hora": 30000
+  }
+]
